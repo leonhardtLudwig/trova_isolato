@@ -1,0 +1,1 @@
+#define MAX_NUMBER_OF_POINTS 100
